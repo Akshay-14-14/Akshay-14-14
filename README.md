@@ -1,367 +1,241 @@
+
 <!-- ========================================================= -->
-<!--                 AKSHAY S — GITHUB PROFILE                  -->
-<!--          Cinematic • Animated • AI / Full Stack            -->
+<!--                    AKSHAY S — GITHUB                      -->
+<!--             Cinematic Developer Portfolio                 -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<a href="https://github.com/Akshay-14-14">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=AKSHAY%20S&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20FULL-STACK%20%7C%20AUTOMATION%20%7C%20CLOUD&descAlignY=62&descSize=18&animation=fadeIn&color=0:050505,45:071a13,75:003d2a,100:00ff88" width="100%" alt="Akshay S cinematic header"/>
-</a>
+# ⚡ AKSHAY S
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=760&lines=Building+with+AI.;Turning+ideas+into+working+products.;Learning.+Building.+Shipping.;Exploring+AI%2C+Web+%26+Cloud." alt="Animated introduction"/>
+### `AI • FULL-STACK • AUTOMATION • CLOUD`
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Building+with+AI.;Turning+ideas+into+working+products.;Learning.+Building.+Shipping.;Exploring+AI%2C+Web+%26+Cloud." alt="Typing SVG" />
 
-<a href="https://github.com/Akshay-14-14">
-  <img src="https://komarev.com/ghpvc/?username=Akshay-14-14&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
+<br />
 
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Akshay-14-14&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+---
+
+<div align="center">
 
 ### `BUILD • LEARN • SHIP • REPEAT`
 
 </div>
 
----
+<br />
 
-## ◢ WHO I AM
+## 👤 Who I Am
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
 ### Hey, I'm Akshay 👋
 
-I'm a **BCA student and developer** focused on building practical software with **AI, automation, and modern web technologies**.
+I'm a **BCA student and developer** focused on building practical software with **AI, automation, and modern web technologies**. I turn ideas into working products through a disciplined pipeline:
 
-I turn ideas into working products through:
 
-```text
-IDEA
-  ↓
-DESIGN
-  ↓
-CODE
-  ↓
-AI / AUTOMATION
-  ↓
-TEST
-  ↓
-SHIP 🚀
-```
+graph TD
+    A[IDEA] --> B[DESIGN]
+    B --> C[CODE]
+    C --> D[AI / AUTOMATION]
+    D --> E[TEST]
+    E --> F[SHIP 🚀]
 
-My goal is to build systems that solve real problems — not just polished demos.
+
+My goal is to build systems that solve real problems—not just polished demos.
 
 </td>
+<td width="40%" valign="top">
 
-<td width="42%" valign="top">
+### 🎯 Current Focus
 
-### CURRENTLY
-
-🟢 Full-stack development
-
-🟢 AI-powered applications
-
-🟢 Local AI / SLMs
-
-🟢 Cloud & DevOps
-
-🟢 System design
-
-🟢 Portfolio projects
+- 🟢 **Full-Stack**: React, Node.js, FastAPI
+- 🟢 **AI Engineering**: Local SLMs, RAG, Computer Vision
+- 🟢 **DevOps**: Linux, Docker, CI/CD pipelines
+- 🟢 **System Design**: Scalable architecture & databases
+- 🟢 **UI/UX**: Cinematic, intuitive interfaces
 
 </td>
 </tr>
 </table>
 
----
 
-## ◈ MY MISSION
+## 🚀 My Mission
 
 > **Build technology that feels useful, intelligent, and human.**
 
-```text
-Artificial Intelligence
-          +
-Software Engineering
-          +
-Automation
-          +
-Cloud / DevOps
-          +
-Creative UI/UX
-          ↓
-     REAL PRODUCTS
-```
+I’m exploring the intersection of:
+
+
+graph LR
+    AI[Artificial Intelligence] --- SE[Software Engineering]
+    SE --- AU[Automation]
+    AU --- CD[Cloud / DevOps]
+    CD --- UX[Creative UI/UX]
+
+
+The goal is not to learn *every* technology.  
+The goal is to **build better products with the technologies I know.**
 
 ---
 
-# ⚡ TECH STACK
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,php&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,php&theme=dark" alt="Languages"/>
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,vite,flutter&theme=dark" />
 
-### Frontend
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=react,vite,flutter&theme=dark" alt="Frontend"/>
+**Database**  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
 
-### Backend
+**AI / Data**  
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend"/>
-
-### Data / AI
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,tensorflow,opencv&theme=dark" alt="Data and AI"/>
-
-### Tools / DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&theme=dark" alt="Tools and DevOps"/>
+**Tools / DevOps**  
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&theme=dark" />
 
 </div>
 
 ---
 
-# 🚀 FEATURED BUILDS
+## 🏗️ Featured Projects
 
-## 01 — 🌱 AI Crop Doctor / AISAF
+### 1. 🌱 AI Crop Doctor / AISAF
+> **Adaptive Intelligent Severity Assessment Framework**  
+> An AI-powered crop health system designed to go beyond basic disease classification.
 
-> **Adaptive Intelligent Severity Assessment Framework**
 
-An AI-powered crop-health system designed to go beyond basic disease classification.
-
-```text
-Plant Image
-     ↓
-Crop / Disease Detection
-     ↓
-Severity Assessment
-     ↓
-Damage / Spread Analysis
-     ↓
-Plant Health Score
-     ↓
-Treatment Recommendation
-     ↓
-Financial Impact
-```
-
-**Focus:** Computer Vision • Deep Learning • Severity Assessment • Treatment Intelligence
+graph TD
+    A[Plant Image] --> B[Crop Detection]
+    B --> C[Disease Detection]
+    C --> D[Severity Assessment]
+    D --> E[Damage / Spread Analysis]
+    E --> F[Plant Health Score]
+    F --> G[Treatment Recommendation]
+    G --> H[Financial Impact]
 
 **Stack:** `Python` `TensorFlow/Keras` `OpenCV` `FastAPI` `React`
 
----
-
-## 02 — ✍️ AI-BlogNest
-
-> **AI-assisted blogging platform**
-
-A full-stack project combining modern web development with AI-assisted content creation.
-
-```text
-USER
-  ↓
-BLOG EDITOR
-  ↓
-AI ASSISTANCE
-  ↓
-CONTENT PROCESSING
-  ↓
-BACKEND API
-  ↓
-DATABASE
-  ↓
-PUBLISHED BLOG
-```
-
-**Focus:** AI-assisted writing • Authentication • REST APIs • Database • Modern UI
+### 2. ✍️ AI-BlogNest
+> **AI-assisted blogging platform**  
+> A full-stack platform combining modern web development with AI-assisted content creation, authentication, and REST APIs.
 
 **Stack:** `React` `Vite` `Node.js` `Express` `MongoDB` `AI`
 
----
+### 3. 🤖 JARVIS / Local AI
+> **A lightweight personal AI assistant**  
+> A local-first assistant designed to handle useful everyday tasks without requiring large-scale AI infrastructure.
 
-## 03 — 🤖 JARVIS / LOCAL AI
 
-> **A lightweight personal AI assistant**
-
-A local-first assistant concept for everyday tasks, memory, reminders, knowledge retrieval, coding help, and safe automation.
-
-```text
-                 ┌─────────────────┐
-                 │      USER       │
-                 └────────┬────────┘
-                          ↓
-                 ┌─────────────────┐
-                 │   JARVIS CORE   │
-                 └────────┬────────┘
-                          ↓
-          ┌───────────────┼───────────────┐
-          ↓               ↓               ↓
-      MEMORY          TASKS          COMMANDS
-          ↓               ↓               ↓
-       SQLite         Reminders      Automation
-          │               │               │
-          └───────────────┼───────────────┘
-                          ↓
-                    LOCAL AI / SLM
-```
-
-**Focus:** Memory • RAG • Local AI • Reminders • Safe Automation
+graph TD
+    U((USER)) --> Core[JARVIS CORE]
+    Core --> M[MEMORY<br/>SQLite]
+    Core --> T[TASKS<br/>Reminders]
+    Core --> C[COMMANDS<br/>Automation]
+    M --> SLM[LOCAL AI / SLM]
+    T --> SLM
+    C --> SLM
 
 **Stack:** `Python` `SQLite` `RAG` `FAISS` `Ollama` `Local SLMs`
 
+### 4. 🔬 More Projects
+| Project | Area | Status |
+| :--- | :--- | :--- |
+| 🌱 AI Crop Doctor / AISAF | AI / Computer Vision | 🟢 Building |
+| ✍️ AI-BlogNest | Full Stack / AI | 🟢 Building |
+| 🤖 JARVIS Local AI | AI / Automation | 🟡 Developing |
+| 🌐 OmniRoute | AI Gateway / APIs | 🟡 Exploring |
+| 📊 Developer Portfolio | Web / UI | 🟢 Improving |
+
 ---
 
-## 04 — 🌐 OMNIROUTE
-
-> **AI gateway / multi-provider experimentation**
-
-Exploring a unified gateway approach for working with multiple AI providers, models, routing and fallback strategies.
-
-**Focus:** AI APIs • Routing • Model orchestration • MCP/A2A • Developer tooling
-
----
-
-# 📊 GITHUB ACTIVITY
+## 📊 GitHub in Numbers
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshay-14-14&show_icons=true&hide_border=true&theme=transparent&title_color=00ff88&icon_color=00ff88&text_color=ffffff&bg_color=00000000&rank_icon=github" height="180" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akshay-14-14&show_icons=true&hide_border=true&theme=transparent&title_color=00ff88&icon_color=00ff88&text_color=ffffff&bg_color=00000000" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-14-14&layout=compact&hide_border=true&theme=transparent&title_color=00ff88&text_color=ffffff&bg_color=00000000" height="180" alt="Top languages"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-14-14&layout=compact&hide_border=true&theme=transparent&title_color=00ff88&text_color=ffffff&bg_color=00000000" height="180"/>
 
 <br/>
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-14-14&theme=dark&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay-14-14&bg_color=00000000&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="Contribution activity graph"/>
+<br/><br/>
 
-</div>
-
----
-
-# 🧬 CONTRIBUTION MOTION
-
-<div align="center">
-
-<!-- Replace the following URL with your generated/self-hosted snake SVG once GitHub Actions is configured. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshay-14-14/Akshay-14-14/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshay-14-14/Akshay-14-14/output/github-contribution-grid-snake.svg">
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/Akshay-14-14/Akshay-14-14/output/github-contribution-grid-snake-dark.svg" width="96%">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay-14-14&bg_color=00000000&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-# 🧭 CURRENT LEARNING PATH
+## 🧭 Current Learning Path
 
-```text
-                    ┌───────────────┐
-                    │   SOFTWARE    │
-                    │  ENGINEERING  │
-                    └───────┬───────┘
-                            │
-          ┌─────────────────┼─────────────────┐
-          ↓                 ↓                 ↓
-       FRONTEND          BACKEND             AI
-          │                 │                 │
-        React            Node.js          Python
-        Vite             FastAPI          ML / DL
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            ↓
-                       CLOUD / DEVOPS
-                            │
-                            ↓
-                    REAL WORLD PROJECTS
-```
 
-### 2026 Focus
+graph TD
+    SE[SOFTWARE ENGINEERING] --> FE[FRONTEND<br/>React, Vite]
+    SE --> BE[BACKEND<br/>Node.js, FastAPI]
+    SE --> AI[AI<br/>Python, ML/DL]
+    FE --> CD[CLOUD / DEVOPS]
+    BE --> CD
+    AI --> CD
+    CD --> RWP[REAL WORLD PROJECTS]
 
-- [x] Full-stack project development
-- [x] AI-powered applications
-- [x] REST APIs
-- [x] Computer vision systems
-- [x] Local AI exploration
+### 🎯 2026 Focus
+- [x] Build full-stack projects
+- [x] Explore AI-powered applications
+- [x] Work with REST APIs
+- [x] Build computer-vision systems
+- [x] Explore local AI
 - [ ] Strengthen DSA
 - [ ] Improve system design
-- [ ] Deepen Docker knowledge
+- [ ] Learn Docker deeply
 - [ ] Learn cloud deployment
 - [ ] Build production-grade applications
 - [ ] Contribute to open source
 
 ---
 
-# 🧠 DEVELOPMENT PHILOSOPHY
+## 💡 Development Philosophy
 
-<div align="center">
+### Don't just learn. Build.
 
-```text
-                    LEARN
-                      │
-                      ▼
-                 EXPERIMENT
-                      │
-                      ▼
-                    BUILD
-                      │
-                      ▼
-                    BREAK
-                      │
-                      ▼
-                   DEBUG
-                      │
-                      ▼
-                  IMPROVE
-                      │
-                      ▼
-                    SHIP 🚀
-```
+graph TD
+    L[LEARN] --> E[EXPERIMENT]
+    E --> B[BUILD]
+    B --> BR[BREAK]
+    BR --> D[DEBUG]
+    D --> I[IMPROVE]
+    I --> S[SHIP 🚀]
 
-</div>
-
-> Every project teaches something new.  
-> Every bug is another problem to solve.  
-> Every completed project becomes the foundation for the next one.
+Every project teaches me something new. Every bug presents another problem to solve. Every completed project becomes the foundation for the next one.
 
 ---
 
-# ⚙️ CURRENTLY BUILDING
-
-| Area | Focus |
-| :---: | :--- |
-| 🤖 AI | Local AI, SLMs, RAG |
-| 🌱 Computer Vision | Crop health and disease detection |
-| 🌐 Full Stack | React + Node + FastAPI |
-| ☁️ DevOps | Linux, Docker, CI/CD |
-| 🧠 Backend | APIs, architecture, databases |
-| 🎨 UI/UX | Cinematic interfaces and experiences |
-
----
-
-# ◇ CONNECT
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Akshay-14-14">
-  <img src="https://img.shields.io/badge/GitHub-Akshay--14--14-050505?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=050505"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff88" alt="GitHub"/>
 </a>
-
-<!-- Replace YOUR-LINKEDIN-USERNAME with your real LinkedIn username. -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-050505?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=050505"/>
+<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN]">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff88" alt="LinkedIn"/>
 </a>
-
-<!-- Replace YOUR_EMAIL@gmail.com with your real email. -->
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-050505?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=050505"/>
+<a href="mailto:[YOUR_EMAIL]@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff88" alt="Email"/>
 </a>
 
 </div>
@@ -370,29 +244,16 @@ Exploring a unified gateway approach for working with multiple AI providers, mod
 
 <div align="center">
 
-### `CURIOUS → BUILDING → LEARNING → SHIPPING`
+## ⚡ Let's Build Something
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00ff88,45:003d2a,100:050505" width="100%" alt="Animated footer"/>
+
+"Great software starts with curiosity."
+
+
+### `BUILD • LEARN • SHIP • REPEAT`
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=footer" width="100%"/>
 
 </div>
-
-<!--
-============================================================
-NOTES
-============================================================
-
-1. This README intentionally avoids hard-coded fake GitHub numbers.
-   GitHub stats widgets fetch the current values dynamically.
-
-2. The contribution snake requires a GitHub Actions workflow.
-   Create the workflow before expecting the snake image to appear.
-
-3. Replace:
-   - YOUR-LINKEDIN-USERNAME
-   - YOUR_EMAIL@gmail.com
-
-4. For maximum cinematic effect, add a self-hosted animated SVG
-   hero or contribution visual inside /assets.
-
-============================================================
--->
