@@ -1,75 +1,69 @@
-<!-- ========================================================= -->
-<!--                 AKSHAY S — GITHUB PROFILE                  -->
-<!--          Cinematic • Animated • AI / Full Stack            -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 <a href="https://github.com/Akshay-14-14">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=AKSHAY%20S&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20FULL-STACK%20%7C%20AUTOMATION%20%7C%20CLOUD&descAlignY=62&descSize=18&animation=fadeIn&color=0:050505,45:071a13,75:003d2a,100:00ff88" width="100%" alt="Akshay S cinematic header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=AKSHAY%20S&fontSize=76&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20FULL-STACK%20%7C%20AUTOMATION%20%7C%20CLOUD&descAlignY=63&descSize=20&animation=fadeIn&color=0:020303,35:061a13,70:003d2a,100:00ff88" width="100%"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=760&lines=Building+with+AI.;Turning+ideas+into+working+products.;Learning.+Building.+Shipping.;Exploring+AI%2C+Web+%26+Cloud." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=760&lines=Building+intelligent+systems.;Turning+ideas+into+working+products.;AI+%E2%80%A2+Full-Stack+%E2%80%A2+Automation+%E2%80%A2+Cloud;Learn.+Build.+Ship.+Repeat." alt="Animated introduction"/>
 
-<br/>
+<br>
 
-<a href="https://github.com/Akshay-14-14">
-  <img src="https://komarev.com/ghpvc/?username=Akshay-14-14&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Akshay-14-14&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<br/><br/>
+<br><br>
 
-### `BUILD • LEARN • SHIP • REPEAT`
+### `DREAM • CODE • BUILD • REPEAT`
 
 </div>
 
 ---
 
-## ◢ WHO I AM
-
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
-### Hey, I'm Akshay 👋
+# ◢ ABOUT ME
 
-I'm a **BCA student and developer** focused on building practical software with **AI, automation, and modern web technologies**.
+### Hi, I'm Akshay 👋
 
-I turn ideas into working products through:
+I'm a **BCA student and developer** interested in:
 
-```text
-IDEA
-  ↓
-DESIGN
-  ↓
-CODE
-  ↓
-AI / AUTOMATION
-  ↓
-TEST
-  ↓
-SHIP 🚀
-```
+- 🤖 Artificial Intelligence
+- 🌐 Full-stack development
+- ⚙️ Automation
+- ☁️ Cloud & DevOps
+- 🎨 Creative UI/UX
 
-My goal is to build systems that solve real problems — not just polished demos.
+I enjoy turning ideas into real projects and continuously learning new technologies.
+
+> **Better Code. Bigger Dreams.**
 
 </td>
 
-<td width="42%" valign="top">
+<td width="50%" valign="top">
 
-### CURRENTLY
+# 🧬 CURRENT MODE
 
-🟢 Full-stack development
+```text
+┌──────────────────────────┐
+│       AKSHAY S           │
+├──────────────────────────┤
+│ 🧠 Building AI Apps     │
+│ 🌐 Web Development      │
+│ ⚙️ Automation           │
+│ ☁️ Cloud / DevOps       │
+│ 🚀 Shipping Projects    │
+│ 📚 Always Learning      │
+└──────────────────────────┘
+```
 
-🟢 AI-powered applications
+### Development Loop
 
-🟢 Local AI / SLMs
-
-🟢 Cloud & DevOps
-
-🟢 System design
-
-🟢 Portfolio projects
+```text
+LEARN → EXPERIMENT → BUILD → BREAK
+             ↓
+      DEBUG → IMPROVE → SHIP 🚀
+```
 
 </td>
 </tr>
@@ -77,155 +71,145 @@ My goal is to build systems that solve real problems — not just polished demos
 
 ---
 
-## ◈ MY MISSION
+# ⚡ FEATURED PROJECTS
 
-> **Build technology that feels useful, intelligent, and human.**
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### 🌱 AI Crop Doctor / AISAF
+
+Adaptive Intelligent Severity Assessment Framework.
 
 ```text
-Artificial Intelligence
-          +
-Software Engineering
-          +
-Automation
-          +
-Cloud / DevOps
-          +
-Creative UI/UX
-          ↓
-     REAL PRODUCTS
+IMAGE
+ ↓
+DISEASE
+ ↓
+SEVERITY
+ ↓
+DAMAGE
+ ↓
+TREATMENT
 ```
+
+`Python` `TensorFlow` `OpenCV` `FastAPI` `React`
+
+**Focus:** Computer Vision • Disease Detection • Severity Analysis
+
+</td>
+
+<td width="25%" valign="top">
+
+### ✍️ AI-BlogNest
+
+AI-assisted full-stack blogging platform.
+
+```text
+USER
+ ↓
+EDITOR
+ ↓
+AI
+ ↓
+API
+ ↓
+DATABASE
+ ↓
+BLOG
+```
+
+`React` `Vite` `Node.js` `Express` `MongoDB`
+
+**Focus:** AI Writing • Authentication • REST APIs • UI
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🤖 JARVIS / Local AI
+
+Lightweight personal AI assistant.
+
+```text
+USER
+ ↓
+CORE
+ ↓
+MEMORY
+ ↓
+TASKS
+ ↓
+TOOLS
+ ↓
+LOCAL AI
+```
+
+`Python` `SQLite` `RAG` `FAISS` `Ollama`
+
+**Focus:** Memory • Automation • Reminders • Local AI
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🌐 OmniRoute
+
+AI gateway and model-routing exploration.
+
+```text
+REQUEST
+ ↓
+ROUTER
+ ↓
+MODEL
+ ↓
+FALLBACK
+ ↓
+RESPONSE
+```
+
+**Focus:** AI APIs • Routing • Model Orchestration
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚡ TECH STACK
+# 🛠️ TECH ECOSYSTEM
 
 <div align="center">
 
-### Languages
+### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,php&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,php&theme=dark"/>
 
-### Frontend
+### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=react,vite,flutter&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,vite,flutter&theme=dark"/>
 
-### Backend
+### BACKEND
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
 
-### Data / AI
+### DATABASE
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,tensorflow,opencv&theme=dark" alt="Data and AI"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark"/>
 
-### Tools / DevOps
+### AI / COMPUTER VISION
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&theme=dark" alt="Tools and DevOps"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark"/>
+
+### TOOLS / DEVOPS
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-# 🚀 FEATURED BUILDS
-
-## 01 — 🌱 AI Crop Doctor / AISAF
-
-> **Adaptive Intelligent Severity Assessment Framework**
-
-An AI-powered crop-health system designed to go beyond basic disease classification.
-
-```text
-Plant Image
-     ↓
-Crop / Disease Detection
-     ↓
-Severity Assessment
-     ↓
-Damage / Spread Analysis
-     ↓
-Plant Health Score
-     ↓
-Treatment Recommendation
-     ↓
-Financial Impact
-```
-
-**Focus:** Computer Vision • Deep Learning • Severity Assessment • Treatment Intelligence
-
-**Stack:** `Python` `TensorFlow/Keras` `OpenCV` `FastAPI` `React`
-
----
-
-## 02 — ✍️ AI-BlogNest
-
-> **AI-assisted blogging platform**
-
-A full-stack project combining modern web development with AI-assisted content creation.
-
-```text
-USER
-  ↓
-BLOG EDITOR
-  ↓
-AI ASSISTANCE
-  ↓
-CONTENT PROCESSING
-  ↓
-BACKEND API
-  ↓
-DATABASE
-  ↓
-PUBLISHED BLOG
-```
-
-**Focus:** AI-assisted writing • Authentication • REST APIs • Database • Modern UI
-
-**Stack:** `React` `Vite` `Node.js` `Express` `MongoDB` `AI`
-
----
-
-## 03 — 🤖 JARVIS / LOCAL AI
-
-> **A lightweight personal AI assistant**
-
-A local-first assistant concept for everyday tasks, memory, reminders, knowledge retrieval, coding help, and safe automation.
-
-```text
-                 ┌─────────────────┐
-                 │      USER       │
-                 └────────┬────────┘
-                          ↓
-                 ┌─────────────────┐
-                 │   JARVIS CORE   │
-                 └────────┬────────┘
-                          ↓
-          ┌───────────────┼───────────────┐
-          ↓               ↓               ↓
-      MEMORY          TASKS          COMMANDS
-          ↓               ↓               ↓
-       SQLite         Reminders      Automation
-          │               │               │
-          └───────────────┼───────────────┘
-                          ↓
-                    LOCAL AI / SLM
-```
-
-**Focus:** Memory • RAG • Local AI • Reminders • Safe Automation
-
-**Stack:** `Python` `SQLite` `RAG` `FAISS` `Ollama` `Local SLMs`
-
----
-
-## 04 — 🌐 OMNIROUTE
-
-> **AI gateway / multi-provider experimentation**
-
-Exploring a unified gateway approach for working with multiple AI providers, models, routing and fallback strategies.
-
-**Focus:** AI APIs • Routing • Model orchestration • MCP/A2A • Developer tooling
-
----
-
-# 📊 GITHUB ACTIVITY
+# 📊 GITHUB COMMAND CENTER
 
 <div align="center">
 
@@ -235,7 +219,9 @@ Exploring a unified gateway approach for working with multiple AI providers, mod
 
 </div>
 
-<br/>
+---
+
+# 📡 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -245,123 +231,144 @@ Exploring a unified gateway approach for working with multiple AI providers, mod
 
 ---
 
-# 🧬 CONTRIBUTION MOTION
+# 🐍 CONTRIBUTION MOTION
 
 <div align="center">
 
-<!-- Replace the following URL with your generated/self-hosted snake SVG once GitHub Actions is configured. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshay-14-14/Akshay-14-14/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshay-14-14/Akshay-14-14/output/github-contribution-grid-snake.svg">
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/Akshay-14-14/Akshay-14-14/output/github-contribution-grid-snake-dark.svg" width="96%">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshay-14-14/Akshay-14-14/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshay-14-14/Akshay-14-14/output/github-contribution-grid-snake.svg">
+<img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/Akshay-14-14/Akshay-14-14/output/github-contribution-grid-snake-dark.svg" width="96%"/>
 </picture>
 
 </div>
 
 ---
 
-# 🧭 CURRENT LEARNING PATH
+# 🧩 SYSTEM ARCHITECTURE
+
+<div align="center">
 
 ```text
-                    ┌───────────────┐
-                    │   SOFTWARE    │
-                    │  ENGINEERING  │
-                    └───────┬───────┘
-                            │
-          ┌─────────────────┼─────────────────┐
-          ↓                 ↓                 ↓
-       FRONTEND          BACKEND             AI
-          │                 │                 │
-        React            Node.js          Python
-        Vite             FastAPI          ML / DL
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            ↓
-                       CLOUD / DEVOPS
-                            │
-                            ↓
-                    REAL WORLD PROJECTS
+┌──────────┐
+│   USER   │
+└────┬─────┘
+     ↓
+┌──────────────┐
+│ APPLICATION  │
+│ React / Web  │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│     API      │
+│ FastAPI /    │
+│ Node.js      │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   DATABASE   │
+│ MongoDB /    │
+│ MySQL / SQL  │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│ AI / CLOUD   │
+│ ML / SLM /   │
+│ Deployment   │
+└──────────────┘
 ```
 
-### 2026 Focus
+</div>
 
-- [x] Full-stack project development
+---
+
+# 🧭 LEARNING PATH
+
+<div align="center">
+
+```text
+01 CORE SKILLS
+       ↓
+02 WEB DEVELOPMENT
+       ↓
+03 AI / ML
+       ↓
+04 CLOUD / DEVOPS
+       ↓
+05 ADVANCED SYSTEMS
+```
+
+</div>
+
+### 2026 Targets
+
+- [x] Full-stack projects
 - [x] AI-powered applications
 - [x] REST APIs
 - [x] Computer vision systems
 - [x] Local AI exploration
 - [ ] Strengthen DSA
 - [ ] Improve system design
-- [ ] Deepen Docker knowledge
+- [ ] Deepen Docker
 - [ ] Learn cloud deployment
-- [ ] Build production-grade applications
 - [ ] Contribute to open source
+- [ ] Build something impactful
 
 ---
 
-# 🧠 DEVELOPMENT PHILOSOPHY
+# 🎯 CURRENTLY EXPLORING
+
+| AREA | FOCUS |
+| :---: | :--- |
+| 🤖 AI | Local AI • SLMs • RAG |
+| 🌱 Computer Vision | Crop health • Disease detection |
+| 🌐 Full Stack | React • Node • FastAPI |
+| 🧠 Backend | APIs • Databases • Architecture |
+| ☁️ DevOps | Linux • Docker • CI/CD |
+| 🎨 UI/UX | Cinematic interfaces |
+
+---
+
+# ⚡ DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
+### `SMALL STEPS → BIG RESULTS`
+
 ```text
-                    LEARN
-                      │
-                      ▼
-                 EXPERIMENT
-                      │
-                      ▼
-                    BUILD
-                      │
-                      ▼
-                    BREAK
-                      │
-                      ▼
-                   DEBUG
-                      │
-                      ▼
-                  IMPROVE
-                      │
-                      ▼
-                    SHIP 🚀
+CURIOUS
+   ↓
+LEARNING
+   ↓
+EXPERIMENTING
+   ↓
+BUILDING
+   ↓
+FAILING
+   ↓
+IMPROVING
+   ↓
+SHIPPING 🚀
 ```
 
 </div>
 
-> Every project teaches something new.  
-> Every bug is another problem to solve.  
-> Every completed project becomes the foundation for the next one.
-
 ---
 
-# ⚙️ CURRENTLY BUILDING
-
-| Area | Focus |
-| :---: | :--- |
-| 🤖 AI | Local AI, SLMs, RAG |
-| 🌱 Computer Vision | Crop health and disease detection |
-| 🌐 Full Stack | React + Node + FastAPI |
-| ☁️ DevOps | Linux, Docker, CI/CD |
-| 🧠 Backend | APIs, architecture, databases |
-| 🎨 UI/UX | Cinematic interfaces and experiences |
-
----
-
-# ◇ CONNECT
+# ◇ CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/Akshay-14-14">
-  <img src="https://img.shields.io/badge/GitHub-Akshay--14--14-050505?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=050505"/>
+<img src="https://img.shields.io/badge/GitHub-Akshay--14--14-050505?style=for-the-badge&logo=github&logoColor=00ff88" alt="GitHub"/>
 </a>
 
-<!-- Replace YOUR-LINKEDIN-USERNAME with your real LinkedIn username. -->
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-050505?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=050505"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-050505?style=for-the-badge&logo=linkedin&logoColor=00ff88" alt="LinkedIn"/>
 </a>
 
-<!-- Replace YOUR_EMAIL@gmail.com with your real email. -->
 <a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-050505?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=050505"/>
+<img src="https://img.shields.io/badge/Email-Contact-050505?style=for-the-badge&logo=gmail&logoColor=00ff88" alt="Email"/>
 </a>
 
 </div>
@@ -370,29 +377,8 @@ Exploring a unified gateway approach for working with multiple AI providers, mod
 
 <div align="center">
 
-### `CURIOUS → BUILDING → LEARNING → SHIPPING`
+### `BUILD • LEARN • SHIP • REPEAT`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00ff88,45:003d2a,100:050505" width="100%" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00ff88,35:003d2a,70:061a13,100:020303" width="100%" alt="Animated footer"/>
 
 </div>
-
-<!--
-============================================================
-NOTES
-============================================================
-
-1. This README intentionally avoids hard-coded fake GitHub numbers.
-   GitHub stats widgets fetch the current values dynamically.
-
-2. The contribution snake requires a GitHub Actions workflow.
-   Create the workflow before expecting the snake image to appear.
-
-3. Replace:
-   - YOUR-LINKEDIN-USERNAME
-   - YOUR_EMAIL@gmail.com
-
-4. For maximum cinematic effect, add a self-hosted animated SVG
-   hero or contribution visual inside /assets.
-
-============================================================
--->
